@@ -1,0 +1,372 @@
+
+/*
+   Theme Name:EWFC
+   Version:1.0
+   Location: localhost/setuislam2
+   Author: SeaWeb Group
+   Description: It's a educational website for child. This website is very funny,helpfull and so easy.
+
+
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	
+	height: 100%;
+	width: 100%;
+}
+
+header{
+	width: 100%;
+	background: #77868F;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+.section2{
+	width: 100%;
+	height: 60vh;
+	background: url(istockphoto-1337176738-170667a1.jpg);
+    background-size: cover;
+}
+.btn{
+	display: inline-block;
+	text-decoration: none;
+	list-style: none;
+	color: gray;
+	border-radius: 5px;
+	padding: 1px 15px;
+	font-size: 21px;
+	background: white;
+	position: relative;
+	cursor: pointer;
+	margin-left: 13px;
+	margin-top: 15px;
+}
+
+.btn:hover{
+	background:#77868F;
+	color: white;
+	border: 1px soli #27AE61;
+	transition: 1s;
+	list-style: none;
+	text-decoration: none;
+
+}
+.form-control{
+	margin-top: 15px;
+	width: 400px;
+	margin-left: 170px;
+	float: left;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}
+.section3{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: white;
+}
+    
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.title{
+    text-align: center;
+    background:#77868F;
+    color: white;
+    padding: 10px;
+    border-radius: 1px 19px 1px 19px;
+}
+
+.subject1{
+    color: hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+.subject2{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+
+}
+.subject3{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+.subject4{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject5{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject6{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject7{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject8{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject9{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject10{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject11{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject12{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+}
+
+.subject13{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject14{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject15{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject13{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+.subject16{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject18{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject19{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject20{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject21{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject22{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject21{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject22{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject23{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject24{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+
+.subject17{
+    color:hotpink;
+    float: left;
+    height: auto;
+    width: 33%;
+    text-align: center;
+    list-style: none;
+
+}
+footer{
+  	width: 100%;
+  	height: 100px;
+  	background: black;
+  	color: white;
+  	text-decoration: none;
+  	text-align: center;
+  }
+a{
+	text-decoration: none;
+	color: white;
+	padding-top: 40px;
+}
+.sidebar{
+	float: right;
+	margin-top: 10px;
+}
